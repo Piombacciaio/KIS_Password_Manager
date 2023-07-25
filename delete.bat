@@ -1,0 +1,1 @@
+RMDIR /S /Q "C:\KIS Password Manager"
